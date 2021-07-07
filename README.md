@@ -4,7 +4,7 @@ This application will allow for a "faster" (by faster, I mean faster in terms of
 ______________________________________________
 ### *Concerning why there are references to DeepS* ###
 
-DeepS was the old project name before it was decided that DiscordL would be the project name, due to some complications with trying to rename folders and change where files point to it has been left there for ease. If you feel brave to step up to the task of sorting all of this out though, feel free. The folders and file pointers will be changed at somepoint though so that it references "DiscordL" and "DeepS".
+DeepS was the old project name before it was decided that DiscordL would be the project name, due to some complications with trying to rename folders and change where files point to it has been left there for ease. If you feel brave to step up to the task of sorting all of this out though, feel free. The folders and file pointers will be changed at somepoint though so that it references "DiscordL" instead of "DeepS".
 
 Saying all of this, you have my apologies if the usage of the name DeepS leaves you with confusion.
 _______________________________________________
