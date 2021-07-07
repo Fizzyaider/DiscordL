@@ -147,6 +147,7 @@ namespace DeepS
             this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
             this.notifyIcon1.Text = "DiscordL";
             this.notifyIcon1.Visible = true;
+            this.notifyIcon1.MouseDoubleClick += NotifyIcon1_MouseDoubleClick;
             // 
             // OnDemandMode
             // 
